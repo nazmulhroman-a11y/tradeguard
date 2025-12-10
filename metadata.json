@@ -1,0 +1,5 @@
+{
+  "name": "TradeGuard Manager-v4",
+  "description": "A smart money management application for binary options including Masaniello Strategy, Fixed, and Percentage based risk management.",
+  "requestFramePermissions": []
+}
